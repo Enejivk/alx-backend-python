@@ -1,4 +1,4 @@
-#!/bin/usr/bin/env python3
+#!/bin/usr/env python3
 """round down float"""
 
 
